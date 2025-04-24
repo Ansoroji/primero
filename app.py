@@ -18,8 +18,7 @@ except:
     pass
 
 st.subheader("Aunque suena increíble de creer, el cuento Dinosaurio escrito por el guatemalteco Augusto Monterroso, es conocido como el cuento más corto que se ha escrito.")
-st.write('Cuando despertó'  
-         ' El dinosaurio todavia estaba allí' 
+st.write('Cuando despertó... El dinosaurio todavia estaba allí' 
          ' Augusto Monterroso'
         
         )
